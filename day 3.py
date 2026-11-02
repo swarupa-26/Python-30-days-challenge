@@ -5,8 +5,8 @@ b =int(input("enter second number : "))
 c =int(input("enter third number : "))
 
 # ----------using function-------
-# print(pow(a,b))
-# print(pow(a,b,c))
+print(pow(a,b))
+print(pow(a,b,c))
 
 
 # ---using operator--------
